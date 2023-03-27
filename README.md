@@ -311,9 +311,3 @@ in XML:
       android:layout_height="wrap_content"/>
 </com.google.android.material.textfield.TextInputLayout>
 ```
-
-## Contributors
-
-Material Components for Android welcomes contributions from the community. Check
-out our [contributing guidelines](contributing.md) as well as an overview of the
-[directory structure](directorystructure.md) before getting started.
