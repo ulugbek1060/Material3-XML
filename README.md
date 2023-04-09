@@ -311,3 +311,5 @@ in XML:
       android:layout_height="wrap_content"/>
 </com.google.android.material.textfield.TextInputLayout>
 ```
+
+Material 3 Top App Bar usage: https://github.com/material-components/material-components-android/blob/master/docs/components/TopAppBar.md
